@@ -1,7 +1,7 @@
 
 ![Writing Detection](https://i.imgur.com/A4NquyT.png)
 
-# Object Detection MRI Scans
+# Writing Detection
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Benji1155/Writing-Detection)](https://img.shields.io/github/v/release/Benji1155/Writing-Detection)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Benji1155/Writing-Detection)](https://img.shields.io/github/last-commit/Benji1155/Writing-Detection)
